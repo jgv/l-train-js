@@ -1,0 +1,17 @@
+{
+  "name": "l-train",
+  "version": "1.0.0",
+  "description": "Is the L train fucked? ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Vingiano",
+  "license": "ISC",
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.10",
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "fast-xml-parser": "^4.3.6"
+  }
+}
